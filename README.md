@@ -6,7 +6,7 @@ Every game is a single HTML file — no installs, no build tools, just open and 
 
 ## Games
 
-- **Flappy Faye** (`flappy.html`) — A Flappy Bird clone with an animated bird, scrolling pipes, score tracking, and high score persistence.
+- **Flappy Boom** (`flappy.html`) — A Flappy Bird clone featuring Boom the golden retriever, with scrolling pipes, score tracking, and high score persistence.
 
 ## How to Play
 
