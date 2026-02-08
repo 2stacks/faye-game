@@ -12,7 +12,7 @@ This is a collection of browser-based games built as single-file HTML/CSS/JavaSc
 
 ## Games
 
-- **flappy.html** — "Flappy Faye", a Flappy Bird clone with an animated bird, scrolling pipes, clouds, score tracking, and high score persistence.
+- **flappy.html** — "Flappy Boom", a Flappy Bird clone featuring Boom the golden retriever, with scrolling pipes, clouds, score tracking, and high score persistence. Boom's photo is embedded as a base64 sprite.
 
 ## Running Games
 
